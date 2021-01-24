@@ -1,0 +1,2 @@
+export { UserDetail } from './component';
+
